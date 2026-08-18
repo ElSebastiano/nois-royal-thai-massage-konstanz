@@ -1,0 +1,6 @@
+# Internal agency working files — not part of the public site
+research/
+docs/
+.claude/
+project-manifest.json
+_claude-launch.json
